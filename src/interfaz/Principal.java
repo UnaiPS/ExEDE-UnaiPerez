@@ -13,7 +13,12 @@ import javax.swing.border.EmptyBorder;
 import java.awt.Color;
 import javax.swing.border.LineBorder;
 import javax.swing.SwingConstants;
-
+/**
+ * Documentación ExamenEDE 2ev
+ * @author Unai Pérez
+ * @version Version1, 2019
+ *
+ */
 @SuppressWarnings("serial")
 public class Principal extends JFrame {
 	private JPanel contentPane;
